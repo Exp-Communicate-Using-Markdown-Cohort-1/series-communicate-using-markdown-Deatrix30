@@ -3,3 +3,6 @@
 ## Inroduction
 $ git init
 ### In the beginning
+- [x] Headers
+- [x] Subheaders
+- [ ] Links
